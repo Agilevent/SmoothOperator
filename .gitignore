@@ -1,0 +1,27 @@
+obj
+bin
+deploy
+deploy/*
+*.suo
+*.cache
+*.bak
+*.log
+*.swp
+*.user
+~$*
+_compareTemp
+_notes
+aspnet_client
+httpd.parse.errors
+Thumbs.db
+
+# Resharper Files
+_ReSharper.*
+*.resharper.user
+*.resharper
+*.ReSharper.*
+*ReSharper*
+*resharper*
+
+# Elmah Error files
+error-*.xml
